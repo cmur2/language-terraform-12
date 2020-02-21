@@ -58,3 +58,6 @@
 ## 0.9.0
 * Use (temporarily?) new package name language-terraform-12 to allow usage
 * Support most common Terraform 0.12 features and functions
+
+## 0.9.1
+* Add package keywords
