@@ -54,3 +54,7 @@
 
 ## 0.8.1 - Thanks Seth Chisamore
 * Adds quick toggle line comments to bring more in line with Atom's other grammars.
+
+## 0.9.0
+* Use (temporarily?) new package name language-terraform-12 to allow usage
+* Support most common Terraform 0.12 features and functions
