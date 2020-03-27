@@ -1,7 +1,7 @@
 {
   "name": "language-terraform-12",
   "description": "Terraform 0.12 support for Atom based on original language-terraform",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "keywords": [
     "language",
     "grammar",
