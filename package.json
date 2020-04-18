@@ -1,13 +1,9 @@
 {
   "name": "language-terraform-12",
-  "description": "Terraform 0.12 support for Atom based on original language-terraform",
+  "description": "(Deprecated) forked Terraform 0.12 support for Atom, use official https://github.com/cmur2/language-terraform",
   "version": "0.9.3",
   "keywords": [
-    "language",
-    "grammar",
-    "terraform",
-    "terraform-0-12",
-    "configuration"
+    "deprecated"
   ],
   "engines": {
     "atom": "*"

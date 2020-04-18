@@ -67,3 +67,6 @@
 
 ## 0.9.3
 * Add support for [indented heredoc strings](https://www.terraform.io/docs/configuration/expressions.html#string-literals) (thanks privatwolke)
+
+## 0.9.4 - Deprecate package
+* Deprecate this package and archive repository as development on the official [language-terraform](https://github.com/cmur2/language-terraform) has [resumed](https://github.com/cmur2/language-terraform/issues/46) and all features are upstreamed
